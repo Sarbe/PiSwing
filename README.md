@@ -1,2 +1,0 @@
-# PiSwing
-Swing application
